@@ -1,6 +1,7 @@
 [![BlueMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluems&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluems&hide=Shell&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
+## Updating now! (Start: Apr 14, 2021)
 [![BlueMS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bluems)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
