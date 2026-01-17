@@ -4,6 +4,10 @@
 ## Updating now! (Start: Apr 14, 2021)
 [![BlueMS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bluems)](https://github.com/anuraghazra/github-readme-stats)
 
+# Contributers
+* ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  - [size-sensor](https://www.npmjs.com/package/size-sensor): v1.0.3
+
 <!--
 **bluems/bluems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
